@@ -19,9 +19,6 @@ python char_unicode.py
 
 Then type a letter, for example a. The script will show:
 
-lua
-Copy
-Edit
 Variants of 'a':
 
 a -> a-- (U+0061)
@@ -35,9 +32,7 @@ a -> a-- (U+0061)
 You can try numbers or other letters as well.
 
 Example of punycode.py
-python
-Copy
-Edit
+
 from punycode import encode, decode
 
 # Encode Unicode string to Punycode
