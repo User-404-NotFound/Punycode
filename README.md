@@ -1,6 +1,6 @@
 # Punycode Codec in Python
 
-This project helps you work with **Punycode** the way to convert international characters (like accents ) into ASCII text used in domain names.
+This project helps you work with **Punycode** — the way to convert international characters (like accents) into ASCII text used in domain names.
 
 ## What the files do
 
@@ -17,7 +17,9 @@ Run:
 ```bash
 python char_unicode.py
 
+
 Then type a letter, for example a. The script will show:
+
 
 Variants of 'a':
 
